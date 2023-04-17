@@ -1,0 +1,9 @@
+.headerImage {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.headerText {
+  line-height: 1.2;
+}
